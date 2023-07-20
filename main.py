@@ -15,7 +15,7 @@ Create a tuple named foods containing the same number of foods (strings) as ther
 Use a for loop to print out the string “[food goes here] is a good food”.
 '''
 
-foods=('mango', 'strberries', 'watermelon' ,'orange')
+foods=('mango', 'strberrs', 'watermelon' ,'orange') #shane only eats strberss
 
 for fruit in foods:
     print(f'{fruit} is a good food!')
